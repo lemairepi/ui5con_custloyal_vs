@@ -1,0 +1,11 @@
+ID;name;email;customerNumber;totalPurchaseValue;totalRewardPoints;totalRedeemedRewardPoints
+c240dad3-47c2-4e4d-a0a6-de4413bbb568;John Smith;john.smith@example.com;1234567;5000;400;100
+868c22e2-c3a5-4132-8a88-179fed94fafe;Jane Doe;jane.doe@example.com;2345678;7000;500;200
+842351ce-a699-4f4a-b051-2859a0f95fae;Michael Johnson;michael.johnson@example.com;3456789;8000;600;200
+3743c4d6-0d07-4ffb-a2bb-e5539ff300e0;Emily Davis;emily.davis@example.com;4567890;9000;700;300
+3d843b14-39b6-4fb6-90a0-f149ae140209;David Wilson;david.wilson@example.com;5678901;6000;400;200
+c585fea5-ec48-497a-9a28-5ab6ca896b33;Oliver Taylor;oliver.taylor@example.com;6789012;7000;500;200
+a66d3e6f-f217-4886-930c-63fa284ab089;Sophia Brown;sophia.brown@example.com;7890123;8000;600;200
+a0061bc8-3dac-4355-b96f-5e40347fa74a;Mia Johnson;mia.johnson@example.com;8901234;9000;700;300
+06d07aa9-bc99-4936-94ea-283831140fc0;Lucas Davis;lucas.davis@example.com;9012345;6000;400;200
+453c5074-4053-4a5a-b47a-204f408589cb;Emma Wilson;emma.wilson@example.com;0123456;7000;500;200
